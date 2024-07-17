@@ -3,7 +3,6 @@ Adapting Avellaneda &amp; Stoikov market making using ccxt for KuCoin
 
 Influced by this repo: https://github.com/fedecaccia/avellaneda-stoikov
 
-```markdown
 # Avellaneda-Stoikov Market Making Simulation
 
 This project implements a simulation of high-frequency trading using the Avellaneda-Stoikov market-making model. The simulation utilizes Brownian motion to model stock price dynamics and implements market-making strategies to manage inventory and optimize profit.
